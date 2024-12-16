@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=54473F&width=400&height=28&lines=Hi👋🏽+I'm+Pattranith+Ruangrotch...;Passionate+Frontend+Developer..;Nice+To+Meet+You+....&center=true"></a></p>
 
 
-- 🔭 I’m currently working on **retro games project**
+- 🔭 I’m currently working on **games project**
 
 - 🌱 I’m currently learning **Python Django 5 with Next.JS 15 and Supabase**
 
