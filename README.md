@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=54473F&width=400&height=45&lines=Hi👋🏽+I'm+Pattranith+Ruangrotch...;Passionate+Frontend+Developer..;Nice+To+Meet+You+....&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=54473F&width=400&height=45&lines=Hi👋🏽+I'm+Pattranith+Ruangrotch...;Nice+To+Meet+You+....&center=true"></a>
 </p>
 
 
