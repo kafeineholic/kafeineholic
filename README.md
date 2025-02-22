@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🎮 I’m currently working on coolkiddo-games project<br><br>📖 I’m currently learning Python Django 5 with Next.JS 15 and Supabase<br><br>📫 How to reach me mind.pattranith@gmail.com
+🎮 I’m currently working on eCommerce project<br><br>📖 I’m currently learning bun tools and tailwind 4.0 <br><br>📫 How to reach me mind.pattranith@gmail.com
 
 
 ## 🌐 Socials:
