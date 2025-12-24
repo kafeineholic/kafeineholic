@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🎮 I’m currently working on eCommerce project<br><br>📖 I’m currently learning bun tools and tailwind 4.0 <br><br>📫 How to reach me pattranith.ruangrotch@gmail.com
+🎮 I’m currently working on LingSix Application<br><br>📖 I’m currently learning n8n <br><br>📫 How to reach me pattranith.ruangrotch@gmail.com
 
 
 ## 🌐 Socials:
